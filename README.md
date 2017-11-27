@@ -19,5 +19,6 @@ You only look once (YOLO) is a state-of-the-art, real-time object detection syst
 
 ## SSD
 SSD is an unified framework for object detection with a single network. It has been originally introduced in this research [pdf](http://arxiv.org/abs/1512.02325).
+* [weiliu89/caffe/ssd](https://github.com/weiliu89/caffe/tree/ssd)
 * [balancap/SSD-Tensorflow](https://github.com/balancap/SSD-Tensorflow)
 * [balancap/SDC-Vehicle-Detection](https://github.com/balancap/SDC-Vehicle-Detection)
